@@ -1,0 +1,14 @@
+Index: ../README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># tango_with_django_project
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../README.md b/../README.md
+--- a/../README.md	(revision 1ae9521ccda3e16be7b1eb650fb6b51fb968f0e0)
++++ b/../README.md	(date 1737585718488)
+@@ -1,1 +1,1 @@
+-# tango_with_django_project
+\ No newline at end of file
++Individual project for WAD2 course, called Tango with Django.

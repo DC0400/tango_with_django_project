@@ -1,1 +1,1 @@
-# tango_with_django_project
+Individual project for WAD2 course, called Tango with Django.
